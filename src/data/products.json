@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Plain Ol' Pineapple",
+		"image": "pineapple-original.jpg",
+		"price": 4
+	},
+	{
+		"name": "Dried Pineapple",
+		"image": "pineapple-dried.jpg",
+		"price": 5
+	},
+	{
+		"name": "Pineapple Gum",
+		"image": "pineapple-gum.jpg",
+		"price": 3
+	},
+	{
+		"name": "Pineapple T-Shirt",
+		"image": "pineapple-tshirt.jpg",
+		"price": 12
+	},
+
+	{
+		"name": "My Sea Pinapple",
+		"image": "sea-pinapple.jpeg",
+		"price": 9
+	}
+]
