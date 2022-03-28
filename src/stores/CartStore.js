@@ -29,7 +29,7 @@ export const useCartStore = defineStore('CartStore', {
 		checkout() {
 			const authUserStore = useAuthUserStore();
 
-			alert(`${authUserStore.username} just boutht ${this.count} items at a total of $${this.total}`);
+			alert(`${authUserStore.username} just xxx boutht ${this.count} items at a total of $${this.total}`);
 		},
 		addItems(count, item) {
 			count = parseInt(count);
